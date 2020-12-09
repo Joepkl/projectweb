@@ -30,7 +30,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-Ik ben een stuk langer dan verwacht bezig geweest met mijn navigatie.-
+
+**Screenshot(s):**
+
+<img src="images/voortgang1">
+<img src="images/voortgang2">
+
+### Agenda voor meeting
+
+Ian - Wilt hulp bij zijn javascript.
+Merel - Wilt weten hoever het formulier gemaakt moet worden.
+Bente - Wilt graag hulp met JS voor de "slider".
+Joep - Wilt weten of je meerdere ul in de navigatie mag gebruiken.
 
 
 
